@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-rot dep trai sieu vip pro
-=======
-rot dep tria sieu vjp pro
->>>>>>> master
+rot dep trai sieu cap dep trai cap vu tru
